@@ -1,0 +1,1 @@
+# StockSage: an intelligent stock analysis tool offering target price predictions, financial report insights, and market trends.
